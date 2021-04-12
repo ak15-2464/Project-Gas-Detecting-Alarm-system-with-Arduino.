@@ -1,4 +1,4 @@
-# Project-Gas-Detecting-Alarm-system-with-Arduino.
+# Gas-Detecting-Alarm-system-with-Arduino.
 
 
 Project Description: 
